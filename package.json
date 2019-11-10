@@ -2,7 +2,7 @@
   "name": "react-native-stroke-view",
   "title": "React Native Stroke View",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hanzi Stroke Animation for Android",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,11 @@
     "baseUrl": "https://github.com/lijian0103/react-native-stroke-view"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "hanzi",
+    "Kanji",
+    "Stroke",
+    "Draw"
   ],
   "author": {
     "name": "lijian",
